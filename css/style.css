@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:200');
 header {
-  background-color: green;
+  background-color: white;
 }
 
 html {
-  background-color:green;
+  background-color:white;
   display: flex;
 }
 
@@ -14,7 +14,7 @@ h1 {
   font-family: 'Raleway', sans-serif;
   color: black;
   background-color: white;
-    
+
 }
 .banner{
   background url(https://images-na.ssl-images-amazon.com/images/I/61JK8%2BN6f9L._SS500.jpg);
@@ -34,7 +34,7 @@ li {
   font-weight: bold;
   margin: 20px;
   font-size: 120%;
-  
+
 }
 
 #nav {
@@ -42,9 +42,9 @@ li {
     margin: 0;
     padding: 10px;
   text-align: center;
-  
-  
-    
+
+
+
 }
 
 .active {
@@ -60,25 +60,25 @@ a {
   font-size: 20px;
   text-align: center;
   font-weight: bold;
-  
+
 }
 
 #form-outer {
   background-color: white;
   margin: 20px 220px 0px 220px;
   border-radius: 25px;
-  
+
 }
 
 #submit {
-  
+
   color: black;
   font-align:center;
   background-color: black;
   margin: 30px;
   font-size: 20px;
   margin: 30px;
- 
+
 }
 
 #button {
@@ -92,16 +92,16 @@ a {
   background-color: black;
   margin-left: auto;
   margin-right: auto;
-  
-  
+
+
 }
- 
+
 #download {
   text-align: center;
   font-weight: bold;
   border: 20px;
   text-align: center;
-  
+
 }
 
 .active {
@@ -114,7 +114,7 @@ a {
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
   padding: 100px 20px 100px 20px
-  
+
 }
 
 #tour {
@@ -153,14 +153,13 @@ p {
 
 #form {
   align-items: center;
-  
+
 }
 
 @media only screen and (max-width: 500px) {
-  
+
   body {
     background-color: white;
   }
-  
-}
 
+}
